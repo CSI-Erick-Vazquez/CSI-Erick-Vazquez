@@ -1,3 +1,10 @@
+# Welcome guys!!!
+### My name is Erick Vazquez
+### I'm a student at CSI. I really like learning about coding. NovaTech is one the coolest class and it's very fun. The teacher is cool ,too. I really wanna keep on learning about coding and stuff.
+* Basketball
+* Volleyball
+* Art
+* Videogames
 ### Hi there 👋
 
 <!--

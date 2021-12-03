@@ -1,6 +1,6 @@
 <h1> My Family Christmas Recipe </h1>
 <h2> Christmas Recipe:  </h2>
-src="![2DAF2C3A-0C22-4CFD-9FC6-0F27422EBEE0](https://user-images.githubusercontent.com/93532955/144523281-a46b3853-f606-4dc7-b00d-58251b60e7e2.jpeg)"
+src="https://user-images.githubusercontent.com/93532955/144523281-a46b3853-f606-4dc7-b00d-58251b60e7e2.jpeg"
        title="Pernil"
        width="20%"
        height="20%" />

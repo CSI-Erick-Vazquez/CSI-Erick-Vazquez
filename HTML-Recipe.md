@@ -1,5 +1,6 @@
 <h1> My Family Christmas Recipe </h1>
-<h2> Christmas Recipe:  </h2>
+<h2> Christmas Recipe: Pernil Horneado  </h2>
+<img
 src="https://user-images.githubusercontent.com/93532955/144532627-952c028f-8e64-4fd5-9424-f47ab713c9e3.jpeg"
        title="Pernil"
        width="20%"
@@ -10,46 +11,49 @@ src="https://user-images.githubusercontent.com/93532955/144532627-952c028f-8e64-
 <ul>
        
 <li>Adobo</li>
-  <img
-  src="https://user-images.githubusercontent.com/93532955/144516172-1ca08381-1a9a-437a-9fe0-07c1fd879a7f.jpeg)"
+<img
+  src="https://user-images.githubusercontent.com/93532955/144533584-f9d98a0d-5021-47fd-b25f-9a9227556817.png"
        title="Adobo"
        width="20%"
        height="20%" />
 
   <li>8 granos medianos de ajo</li>
   <img  
-  src="https://user-images.githubusercontent.com/93532955/144516227-3461432d-ec95-4474-be9d-2382a5880f53.jpeg)"
+  src="https://user-images.githubusercontent.com/93532955/144533649-1323101c-9194-42b1-bea2-958facb76f96.png"
        title="Ajo"
        width="20%"
        height="20%" />
 
   <li>8 granos de pimienta o 1/3 cucharadita de polvo de pimienta</li>
   <img
-  src="https://user-images.githubusercontent.com/93532955/144516263-c034c37e-eeb2-4819-829b-d8547418985b.jpeg)"
+  src="https://user-images.githubusercontent.com/93532955/144533726-1c0b44c9-f5c7-416e-b141-2427305a7af5.png"
        title="Pimienta"
        width="20%"
        height="20%" />
 
   <li>2 cucharadita de orégano seco</li>
   <img
-  src="https://user-images.githubusercontent.com/93532955/144516287-3f237fc7-dcf4-45d0-840e-103d362e77cf.jpeg)"
+  src="https://user-images.githubusercontent.com/93532955/144533853-1a4642c2-490d-4d90-94b6-b6e4a3330df5.png"
        title="Oregano"
        width="20%"
        height="20%" />
 
   <li>2 cucharada de aceite de oliva</li>
+  <img
   src="https://user-images.githubusercontent.com/93532955/144516322-3a44ca27-9711-432c-a442-1da5499ba358.jpeg"
        title="Oliva"
        width="20%"
        height="20%" />
 
   <li>2 cucharada de vinagre</li>
+  <img
   src="https://user-images.githubusercontent.com/93532955/144516338-b3136fd9-1685-40d6-8422-6b7392aba301.jpeg"
        title="Vinagre"
        width="20%"
        height="20%" />
 
   <li>1 cucharada de sal por cada libra que pesa el pernil</li>
+  <img
   src="https://user-images.githubusercontent.com/93532955/144516351-43f5acd9-6839-48cc-b7ca-0103b1d6ccea.jpeg"
        title="Sal"
        width="20%"

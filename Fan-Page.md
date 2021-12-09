@@ -33,17 +33,27 @@
   <table>
   <tr>
   <th>Name</th>
-  <td></td>
+  <td>Giannis Antetokumpo</td>
   </tr>
   <th>Age</th>
-  <td></td>
+  <td>27</td>
   </tr>
   <tr>
-  <tr>Birthday</tr>
-  <td></td>
+  <th>Birthday</th>
+  <td>December 6, 1994</td>
   </tr>
   <tr>
-  <th>Nationality<th>
-  <td></td>
+  <th>Nationality</th>
+  <td>Greek</td>
   </tr>
-  
+  <tr>
+  <th>Instagram</th>
+  <td><a href="https://www.instagram.com/giannis_an34/">@GiannisAntetokumpo</a></td>    
+      </tr>
+  <tr>
+      <th>Twitter</th>
+  <td><a href="https://www.instagram.com/giannis_an34/">@GiannisAntetokumpo</a></td>
+  </tr>
+    <th>Youtube</th>
+    <td><a href"=https://www.youtube.com/channel/UCrMiMJMUSjELs0jb1vtTiAg">@GiannisChannel</a></td>
+</tr>    

@@ -1,20 +1,25 @@
-<h1 styles"font-family:Brush Script MT; font-size;300%;" align="center" > <b> ... </b> </h1>
+<h1 styles"font-family:Brush Script MT; font-size;300%;" align="center" > <b> Giannis Antetokumpo </b> </h1>
 
 
 <div align="center">
-    <img  src="
+    <img  src="https://user-images.githubusercontent.com/93532955/145509698-fcccb0f9-2cff-4ef0-b432-3229f5528c75.jpeg"
+         title="Giannis"
+         width="150%"
+         length="150%"
+                              
                
                
                
-               
-               
-               
-<h2 align="center" >  Shows, social media, gmaes or others Fan Page!</h2>
+<h2 align="center" >  Sports news, social media, baketball games or others Fan Page!</h2>
                
 <br>
                
 <div align="center">                
-   <img     src="               
+   <img     src="https://user-images.githubusercontent.com/93532955/145510155-eda686bf-bb82-4728-86c7-1f2f4b4f9a6e.jpeg"
+        title="giannis2"
+        width="150%"
+        length="150%"
+               
                
                
                
@@ -47,6 +52,9 @@
   <td>Greek</td>
   </tr>
   <tr>
+  <th>NBA Team</th>
+  <td>Milwaukee Bucks</td>    
+  <tr>
   <th>Instagram</th>
   <td><a href="https://www.instagram.com/giannis_an34/">@GiannisAntetokumpo</a></td>    
       </tr>
@@ -55,5 +63,5 @@
   <td><a href="https://www.instagram.com/giannis_an34/">@GiannisAntetokumpo</a></td>
   </tr>
     <th>Youtube</th>
-    <td><a href"=https://www.youtube.com/channel/UCrMiMJMUSjELs0jb1vtTiAg">@GiannisChannel</a></td>
+    <td><a href"=https://www.youtube.com/channel/UCrMiMJMUSjELs0jb1vtTiAg">@GiannisAntetokumpo</a></td>
 </tr>    

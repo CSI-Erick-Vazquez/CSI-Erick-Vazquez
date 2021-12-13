@@ -28,7 +28,7 @@
   
   
 <br>
-<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+<p style = "text-indent: 2cm; font-family: Brush Font MT; font-size:110%">
 Giannis Antetokumpo is a world-renowned basketball palyer also known by his nickname the Greek Freak. He's known to play with the Milwaukee Bucks and has a 5 year contract with them for a total of $228,200,420 guaranteed. 
 Last season he was best known for being on the championship-winnign team and also being the the MVP of the whole league. He was named MVP for his all-around skill. These skill being ball-handling, vertical jump, size and speed.
 Giannis is well known to be kind with his fans and like to socialize and connect with them. His current partner is Mariah Rddlespringer and they normally live stream together on Giannis' instagram. 

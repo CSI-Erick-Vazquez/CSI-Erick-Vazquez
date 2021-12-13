@@ -1,4 +1,4 @@
-<h1 styles"font-family:Brush Script MT; font-size;300%;" align="center" > <b> Giannis Antetokumpo </b> </h1>
+<h1 styles="font-family: Grafik Design; font-size:300%;"  align="center" > <b> Giannis Antetokumpo </b> </h1>
 
 
 <div align="center">
@@ -29,9 +29,9 @@
   
 <br>
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-  Giannis Antetokumpo is a world-renowned basketball palyer also known by his nickname the Greek Freak. He's known to play with the Milwaukee Bucks and has a 5 year contract with them for a total of $228,200,420 guaranteed. 
-   Last season he was best known for being on the championship-winnign team and also being the the MVP of the whole league. He was named MVP for his all-around skill. These skill being ball-handling, vertical jump, size and speed.
-   Giannis is well known to be kind with his fans and like to socialize and connect with them. His current partner is Mariah Rddlespringer and they normally live stream together on Giannis' instagram. 
+Giannis Antetokumpo is a world-renowned basketball palyer also known by his nickname the Greek Freak. He's known to play with the Milwaukee Bucks and has a 5 year contract with them for a total of $228,200,420 guaranteed. 
+Last season he was best known for being on the championship-winnign team and also being the the MVP of the whole league. He was named MVP for his all-around skill. These skill being ball-handling, vertical jump, size and speed.
+Giannis is well known to be kind with his fans and like to socialize and connect with them. His current partner is Mariah Rddlespringer and they normally live stream together on Giannis' instagram. 
   </p>
   
   <br>
@@ -70,7 +70,7 @@
 </table>
 
 <img     src="https://user-images.githubusercontent.com/93532955/145517310-7e8c2d5b-61fa-46eb-883e-100a17ebb37c.jpeg"
-     title="giannis3"
+     title="giannis"
      width="150%"
      length="150%"
      />

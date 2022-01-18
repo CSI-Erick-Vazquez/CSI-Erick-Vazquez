@@ -4,7 +4,7 @@
 <head>
 <title>Giannis Fan-Page</title>
 </head>
-
+<body>
 <h1 styles="font-family: Grafik Design; font-size:300%;"  align="center" > <b> Giannis Antetokumpo </b> </h1>
 
 

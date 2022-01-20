@@ -10,9 +10,9 @@
 
 <div align="center">
 <img  src="https://user-images.githubusercontent.com/93532955/145509698-fcccb0f9-2cff-4ef0-b432-3229f5528c75.jpeg"
-          title="Giannis"
-          width="150%"
-          length="150%"
+        title="Giannis"
+        width="150%"
+        length="150%"
                                    
                     
                     
@@ -23,9 +23,9 @@
                     
 <div align="center">                
 <img     src="https://user-images.githubusercontent.com/93532955/145510155-eda686bf-bb82-4728-86c7-1f2f4b4f9a6e.jpeg"
-          title="giannis2"
-          width="150%"
-          length="150%"
+        title="giannis2"
+        width="150%"
+        length="150%"
                     
                     
                     
@@ -77,10 +77,10 @@ Giannis is well known to be kind with his fans and like to socialize and connect
 </table>
 
 <img     src="https://user-images.githubusercontent.com/93532955/145517310-7e8c2d5b-61fa-46eb-883e-100a17ebb37c.jpeg"
-          title="giannis"
-          width="150%"
-          length="150%"
-          />
+        title="giannis"
+        width="150%"
+        length="150%"
+        />
 
 <br><br>
 
